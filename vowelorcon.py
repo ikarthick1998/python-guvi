@@ -1,5 +1,6 @@
-VOEL=input()
-if VOEL=='a'or'e'or'i'or'o'or'u'or'A'or'E'or"I"or"O"or'U':
+voel=input("")
+l=['a','e','i','o','u','A','E','I','O','U']
+if voel in l:
     print("Vowel")
 else:
-    print('Consonant')
+    print("Consonent")
