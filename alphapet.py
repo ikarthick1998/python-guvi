@@ -1,5 +1,5 @@
-alp=input()
-if((alp>="a" and alp<="z") or (alp>="A"and alp<="Z")):
+string=input("")
+if ((string>="a" and string<="z") or(string>="A" and string<='Z' )):
     print("Alphabet")
 else:
     print("No")
