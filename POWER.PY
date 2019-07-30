@@ -1,4 +1,4 @@
-p=int(input ("n="))
-l=int(input("k="))
+p=int(input())
+l=int(input())
 c=p**l
 print(c)
